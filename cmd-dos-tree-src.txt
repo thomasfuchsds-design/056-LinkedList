@@ -1,0 +1,20 @@
+Auflistung der Ordnerpfade
+Volumeseriennummer : 0000003C 928F:F3A4
+C:\10_MY\60_PROJECT\JAVASOFT\WORKSPACE\50-2019-06-R\056-LINKEDLIST\SRC
+ÃÄÄÄberlinBrown
+³   ÃÄÄÄstep00
+³   ÀÄÄÄstep01
+ÃÄÄÄhuntbach
+³   ÀÄÄÄstep00
+ÃÄÄÄmtimkovich
+³   ÃÄÄÄstep00
+³   ÃÄÄÄstep01
+³   ÃÄÄÄstep02
+³   ÃÄÄÄstep03
+³   ÀÄÄÄstep04
+ÀÄÄÄpenax
+    ÃÄÄÄstep00
+    ÃÄÄÄstep01
+    ÃÄÄÄstep02
+    ÃÄÄÄstep03
+    ÀÄÄÄstep04
