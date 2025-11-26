@@ -1,0 +1,8 @@
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 928F-F3A4
+
+ Verzeichnis von C:\10_my\60_project\Javasoft\workspace\50-2019-06-R\056-LinkedList\src
+
+26.11.2025  19:05               594 list-of-LinkedList-impls.txt
+               1 Datei(en),            594 Bytes
+               0 Verzeichnis(se),  9.174.941.696 Bytes frei
